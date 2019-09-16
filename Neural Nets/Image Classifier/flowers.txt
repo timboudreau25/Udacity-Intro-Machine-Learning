@@ -1,0 +1,3 @@
+This is a placeholder for a flowers directory, with train, test and validate subdirectories.
+
+The sample of photos used to train, test and validate the model is too large to upload and not on the Udacity github to fork. Should someone be interested in replicating or testing my files, please reach out and I can send a compressed file (~300 mb in size).
